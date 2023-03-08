@@ -2,5 +2,5 @@
 - Apple
 - Mango
 ## Dry Fruits
-- Cashew nuts
-- Dates
+1. Cashew nuts
+2. Dates
